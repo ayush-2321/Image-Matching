@@ -1,5 +1,5 @@
 # Image-Matching
-This project is divided into 3 parts and the report, as well as Python implementation is included for all.
+This project is divided into 3 parts. The report, as well as Python implementation, is included for all 3 parts.
 ## Image matching using traditional methods
 This project aims to develop a robust and efficient image-matching algorithm for various applications in computer
 vision. We discussed a few traditional approaches for feature extraction, such as SURF and
